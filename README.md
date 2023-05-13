@@ -1,7 +1,7 @@
 <h1 align="center">Hi Folks 👋, I'm Reyas Khan</h1>
 <h3 align="center">A passionate Cloud and DevOps Engineer from India</h3>
 
-![image](https://github.com/rewyekha/Reyas-Khan-/assets/119721119/67dd46ae-83a2-4514-9239-0a2e53de221c)
+![logo](https://github.com/rewyekha/rewyekha/blob/main/23F1913A-8B6E-4C2F-AB95-4253C14A412A.jpeg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rewyekha&label=Profile%20views&color=0e75b6&style=flat" alt="rewyekha" /> </p>
