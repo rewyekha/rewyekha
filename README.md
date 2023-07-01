@@ -6,9 +6,6 @@ We can only learn to love by loving. -> ![computer-love](https://github.com/rewy
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rewyekha&label=Profile%20views&color=0e75b6&style=flat" alt="rewyekha" /> </p>
 
-- 🔭 I’m currently working on **Cloud Storage (Support)**
-
-- 📫 How to reach me **reyaskhan001@gmail.com**
 
 - ⚡ Fun fact **I Once set up an entire CI/CD pipeline for a project using only my smartphone, while stranded on a desert island during a vacation. It was an unexpected challenge, but it taught me the importance of resourcefulness and being able to adapt to any situation.**
 
