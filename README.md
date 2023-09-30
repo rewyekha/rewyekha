@@ -1,7 +1,7 @@
 <h1 align="center">Hi People 👋, I'm Reyas Khan(Adnan)</h1>
 <h3 align="center">A passionate Cloud and DevOps Engineer from India</h3>
 
-# We can only learn to love by loving. -> ![computer-love](https://github.com/rewyekha/rewyekha/assets/119721119/25ae78c0-8ba4-4bfb-8350-9be697d38a0f)   
+We can only learn to love by loving. -> ![computer-love](https://github.com/rewyekha/rewyekha/assets/119721119/25ae78c0-8ba4-4bfb-8350-9be697d38a0f)   
 
 <!-- Languages and Tools -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
