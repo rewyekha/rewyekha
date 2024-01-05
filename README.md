@@ -2,7 +2,7 @@
 
 I am Reyas Khan. 
 
-- 👯 I’m looking to collaborate on **Open Source** and **Web Development** projects...
+- 👯 I’m looking to collaborate on **DevOps**, **Open Source** and **Web Development** projects...
 - 📫 How to reach me:
       <ul>
          <li>My Portfolio : [https://rewyekha.github.io/#/home)</li>
