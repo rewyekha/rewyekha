@@ -1,68 +1,52 @@
-<h1 align="center">Hi People 👋, I'm Reyas Khan(Adnan)</h1>
-<h3 align="center">A passionate Cloud and DevOps Engineer from India</h3>
+<!-- Header Section -->
+<h1 align="center"><font face="Arial">Hi 👋, I'm Reyas Khan </font></h1>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/reyas-khan-16640825b/" target="_blank" rel="noreferrer">Reyas</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps .</font></h3>
 
-We can only learn to love by loving. -> ![computer-love](https://github.com/rewyekha/rewyekha/assets/119721119/25ae78c0-8ba4-4bfb-8350-9be697d38a0f)   
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-<!-- Languages and Tools -->
+<!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
-<!-- Cloud -->
-<h4><font size="+1" face="Tahoma">Cloud:</font></h4>
+
+- I work on DevOps, Microservices, containers, and everything around it.
+- Open to work : **YES**
+
+
+
+#### Programming Language Stack
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" title="go" width="40" height="40"/> </p>
+
+#### OS Stack
+<p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img  
+src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" title="redhat" width="40" height="40"/>  <img 
+src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="alpine" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/> </p>
+
+#### Database Stack
+<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="cassandra" title="mongodb" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" alt="couchbase" title="couchbase" width="40" height="40"/> </p>
+
+#### Dev Stack
+<p align="left"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_maven.svg" alt="maven" title="maven" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/scala-sbt/scala-sbt-icon.svg" alt="sbt" title="sbt" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" title="kafka" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" title="elasticsearch" width="40" height="40"/> </p>
+
+#### DevOps Stack 
+<p align="left"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/> <img
+src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="microsoft_azure" title="microsoft_azure" width="40" height="40"/>    <img                                                                                                                                   src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="gcp" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" title="circleci" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/codeship/codeship-icon.svg" alt="codeship" title="codeship" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/atlassian_bamboo/atlassian_bamboo-icon.svg" alt="bamboo" title="bamboo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefik" title="traefik" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx" title="nginx" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="logstash" title="logstash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" title="kibana" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethues" title="promethues" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg" alt="graphite" title="graphite" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40"/> </p>
+
+
+#### Project Management Stack
+<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/></p>
+
+#### Editor / IDE I ♥
+
+<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
+
+<!-- Contact Section -->
+<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
-<a href="[https://aws.amazon.com](https://aws.amazon.com/)" target="_blank" rel="noreferrer">
-<img src="https://www.logigroup.com/images/Logo_aws.gif" alt="aws" width="100" height="80"/>
-</a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/>
-</a>
-<a href="[https://cloud.google.com](https://cloud.google.com/)" target="_blank" rel="noreferrer">
-<img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" alt="gcp" width="80" height="80"/>
-</a>
-<!-- Add more cloud-related tools here -->
 </p>
 
-<!-- Scripting -->
-<h4><font size="+1" face="Tahoma">Scripting:</font></h4>
-<p align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png" alt="bash" width="100" height="100"/>
-</a>
-<a href="[https://www.python.org](https://www.python.org/)" target="_blank" rel="noreferrer">
-<img src="https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.webp" alt="python" width="100" height="100"/>
-</a>
-<a href="[https://golang.org](https://golang.org/)" target="_blank" rel="noreferrer">
-<img src="https://perisync.com/images/gocc.gif" alt="golang" width="170" height="100"/>
-</a>
-</p>
-
-<!-- Technologies -->
-<h4><font size="+1" face="Tahoma">Technologies:</font></h4>
-<p align="left">
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="40" height="40"/>
-</a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rewyekha&label=Profile%20views&color=0e75b6&style=flat" alt="rewyekha" /> </p>
-
-
-- ⚡ Fun fact **I Once set up an entire CI/CD pipeline for a project using only my smartphone, while stranded on a desert island during a vacation. It was an unexpected challenge, but it taught me the importance of resourcefulness and being able to adapt to any situation.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/reyas-khan-16640825b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reyas-khan-16640825b/" height="30" width="40" /></a>
-<a href="https://hashnode.com/rewyekha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="rewyekha" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">DevOps - Tools:</h3>
-<p align="left"> <a target="_blank" rel="noreferrer"> </a> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/Reya-kha"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Reya-kha" /></a></p><br><br>
+- 💬 Ask me about **DevOps & Cloud**
+- 📫 How to reach me **[reyaskhan001@gmail.com](mailto:reyaskhan001@gmail.com)**
+- ⚡ Fun fact **404 Error**
 
 
