@@ -50,3 +50,11 @@ src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
 - ⚡ Fun fact **404 Error**
 
 
+# 📊 GitHub Stats:
+<img width="685" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rewyekha&theme=dark">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgesh4993&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgesh4993&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgesh4993&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgesh4993&theme=dark&utcOffset=8)
+
