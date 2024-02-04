@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Reyas Khan </font></h1>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Reyas Khan | Adnan - Addy</font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/reyas-khan-16640825b/" target="_blank" rel="noreferrer">Reyas</a> is a passionate DevOps Engineer from Chennai - India, working on Cloud and DevOps .</font></h3>
 
 <!-- GIF -->
