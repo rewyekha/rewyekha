@@ -10,7 +10,7 @@
 
 
 - I work on DevOps, Microservices, containers, and everything around it.
-- Open to work : **YES**
+- Open for opportunities : **YES**
 
 
 
