@@ -9,8 +9,8 @@
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 
-- I work on DevOps, Microservices, containers, and everything around it.
-- Open for opportunities : **YES**
+- I work on Cloud services, DevOps, Microservices, containers, and everything around it.
+- Open for opportunities: **YES**
 
 
 
@@ -47,7 +47,7 @@ src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
 
 - 💬 Ask me about **DevOps & Cloud**
 - 📫 How to reach me **[reyaskhan001@gmail.com](mailto:reyaskhan001@gmail.com)**
-- ⚡ Fun fact **404 Error**
+- ⚡ **Positive Mind**
 
 
 # 📊 GitHub Stats:
