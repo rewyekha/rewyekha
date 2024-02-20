@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Reyas Khan | Adnan - Addy</font></h1>
+<h1 align="center"><font face="Arial">Hello World 👋, I'm Reyas Khan | Adnan - Addy</font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/reyas-khan-16640825b/" target="_blank" rel="noreferrer">Reyas</a> is a passionate Software | DevOps Engineer from Chennai - India.</font></h3>
 
 <!-- GIF -->
@@ -15,7 +15,13 @@
 
 
 #### Programming Language Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" title="go" width="40" height="40"/> </p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img 
+src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" title="sqlite" width="40" height="40"/> <img                                                                                                                                                 src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" title="go" width="40" height="40"/> <img
+src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" title="javascript" width="40" height="40"/> <img
+src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="w3_html5" title="w3_html5" width="40" height="40"/>  <img                                                          src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="w3_css" title="w3_css" width="40" height="40"/>  <img
+src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"  alt="w3_xml" title="xml" width="40" height="40"/>                                                                                                                  
+</p>
+
 
 #### OS Stack
 <p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img  
