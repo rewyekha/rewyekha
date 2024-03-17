@@ -1,15 +1,15 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hello World 👋, I'm Reyas Khan | Adnan - Addy</font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/reyas-khan-16640825b/" target="_blank" rel="noreferrer">Reyas</a> is a passionate Software | DevOps Engineer from Chennai - India.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/reyas-khan-16640825b/" target="_blank" rel="noreferrer">Reyas</a> is a passionate Software Engineer from Chennai - India.</font></h3>
 
 <!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="center" height="190" width="1150" src="https://github.com/rewyekha/rewyekha/blob/376090eff0611317441dee417ee201d4ac4bc52d/github-header-image.png" />
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 
-- I work on Cloud services, DevOps, Microservices, containers, and everything around it.
+- I work on Cloud services, Database, DevOps, Microservices, containers, and everything around it.
 - Open for opportunities: **YES**
 
 
