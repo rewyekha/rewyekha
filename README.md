@@ -55,7 +55,6 @@ src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
 <p align="left">
 </p>
 
-- 💬 Ask me about **DevOps & Cloud**
 - 📫 How to reach me **[reyaskhan001@gmail.com](mailto:reyaskhan001@gmail.com)**
 - ⚡ **Positive Mind**
 
