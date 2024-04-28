@@ -11,7 +11,8 @@
 
 - I work on Cloud services, Database, DevOps, Microservices, containers, and everything around it.
 - Open for opportunities: **YES**
-
+- Currently I'm pursuing: Master of Computer Applications (**MCA**).
+- Currently I'm learning: C++ & Data Structures, Digital logic fundamentals, RDBMS, OS, Accounting and Finance & Labs (Sem - 1)
 
 
 #### Programming Language Stack
