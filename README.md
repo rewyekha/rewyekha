@@ -11,7 +11,7 @@
 
 - I work on Cloud services, Database, DevOps, Microservices, containers, and everything around it.
 - Open for opportunities: **YES**
-- Currently I'm pursuing: Master of Computer Applications (**MCA**) from Universityof Madras.
+- Currently I'm pursuing: Master of Computer Applications (**MCA**) from University of Madras.
 - Currently I'm learning: 
 1. C++ & DS, Digital logic fundamentals, DBMS, OS, Accounting and Finance.
 2. Artificial intelligence, Design & Analysis of algorithms, Object oriented analysis and Design, Web application development (C# & .net), Computer network.
