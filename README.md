@@ -5,7 +5,7 @@
 
 
 <!-- GIF -->
-<img align="center" height="260" width="1150" src="https://github.com/rewyekha/rewyekha/blob/61feb2eae96306c5d4e6021adeb6d6cf0d2589a1/Banner.gif" />
+<img align="center" height="230" width="990" src="https://github.com/rewyekha/rewyekha/blob/61feb2eae96306c5d4e6021adeb6d6cf0d2589a1/Banner.gif" />
 
 <h3>Connect with me: </h3>
 
