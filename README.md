@@ -1,19 +1,52 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hello World 👋, I'm Reyas Khan | Adnan - Addy</font></h1>
+<h1>Welcome! <a href="https://github.com/rewyekha"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h1>
+<h1 align="center"><font face="Arial">I'm Reyas Khan | Adnan - Addy :)</font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/reyas-khan-16640825b/" target="_blank" rel="noreferrer">Reyas</a> is a passionate Software Engineer from Chennai - India.</font></h3>
 
+
 <!-- GIF -->
-<img align="center" height="190" width="1150" src="https://github.com/rewyekha/rewyekha/blob/376090eff0611317441dee417ee201d4ac4bc52d/github-header-image.png" />
+<img align="center" height="260" width="1150" src="https://github.com/rewyekha/rewyekha/blob/61feb2eae96306c5d4e6021adeb6d6cf0d2589a1/Banner.gif" />
+
+<h3>Connect with me: </h3>
+
+<p align="center">
+  <a href="https://rewyekha.github.io/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+  <a href="https://www.linkedin.com/in/reyas-khan-16640825b/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="reyaskhan001@gmail.com">
+    <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/rey-addy">
+    <img alt="Dev Community" src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
+  <a href="">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/reyaskhan001">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/rey_khan/">
+    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+</a>
+
+
+</p>
+
+<h2 align="left"><font face="Arial">Open for opportunities: YES</font></h2>
+
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 
 - I work on Cloud services, Database, DevOps, Microservices, containers, and everything around it.
-- Open for opportunities: **YES**
+  
 - Currently I'm pursuing: Master of Computer Applications (**MCA**) from University of Madras.
 - Currently I'm learning: 
-1. C++ & DS, Digital logic fundamentals, DBMS, OS, Accounting and Finance.
+1. C++ & DS, DSA, Digital logic fundamentals
 2. Artificial intelligence, Design & Analysis of algorithms, Object oriented analysis and Design, Web application development (C# & .net), Computer network.
 3. Machine learning, Software project management, Mobile application development & Labs.
 
@@ -48,15 +81,16 @@ src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
 
 #### Editor / IDE I ♥
 
-<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
-
-<!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
-<p align="left">
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" title="pycharm" width="40" height="40"/>
+  <img src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" alt="clion" title="clion" width="40" height="40"/>
 </p>
 
-- 📫 How to reach me **[reyaskhan001@gmail.com](mailto:reyaskhan001@gmail.com)**
-- ⚡ **Positive Mind**
+
+
+
 
 
 # 📊 GitHub Stats:
