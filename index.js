@@ -78,6 +78,6 @@ async function action() {
    * Bye bye service 👋
    */
   // await puppeteerService.close();
-}
+
 
 action();
