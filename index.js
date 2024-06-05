@@ -72,7 +72,7 @@ async function action() {
   /**
    * Generate README
    */
-  await generateReadMe();
+  /** await generateReadMe();//
 
   /**
    * Bye bye service 👋
