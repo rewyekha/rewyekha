@@ -1,32 +1,38 @@
-name: Update README
+name: Autobuild README
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: '0 0 * * *'  # Run daily at midnight
+    - cron: "0 */6 * * *"
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
+      - name: Checkout current repository to main branch
+        uses: actions/checkout@v3.0.2
+      - name: Setup Node.js 13.x
+        uses: actions/setup-node@v3.4.1
         with:
-          node-version: '14'
-
+          node-version: "13.x"
+      - name: Cache dependencies and build outputs
+        uses: actions/cache@v3.0.7
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
       - name: Install dependencies
         run: npm install
-
-      - name: Generate README
+      - name: Generate README file
         run: node index.js
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.email "reyaskhan001@gmail.com"
-          git config --global user.name "rewyekha"
-          git add README.md
-          git commit -m "Update README"
+        env:
+          OPEN_WEATHER_MAP_KEY: ${{secrets.WEATHER_VISUALCROSSING_MAP_KEY}}
+      - name: Commit and push new README.md
+        run: |-
+          git diff
+          git config --global user.email "${{secrets.GLOBAL_USER_EMAIL}}"
+          git config --global user.name "${{secrets.GLOBAL_USER_NAME}}"
+          git commit -a -m "Hourly content update" || exit 0
           git push
