@@ -7,15 +7,15 @@ dotenv.config();
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
-const tzOffset = 330; // Offset for Asia/Kolkata, which Chennai follows (330 minutes = 5 hours and 30 minutes)
-let refresh_date = new Date().toLocaleDateString('en-GB', {
+const tzOffsetMs = 330 * 60 * 1000; // Offset for Asia/Kolkata, which Chennai follows (330 minutes = 5 hours and 30 minutes)
+let refresh_date = new Date(Date.now() + tzOffsetMs).toLocaleDateString('en-GB', {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
     hour: 'numeric',
-    minute: 'numeric',
-    timeZone: `UTC+${tzOffset}`,
+    minute: 'numeric'
 });
+
 
 async function setWeatherInformation() {
   try {
