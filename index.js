@@ -1,7 +1,7 @@
 require('dotenv').config();
-const Mustache = require('mustache');
-const fetch = require('node-fetch');
-const fs = require('fs');
+import Mustache from 'mustache';
+import fetch from 'node-fetch';
+import fs from 'fs';
 // const puppeteerService = require('./services/puppeteer.service');
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
@@ -19,15 +19,15 @@ let DATA = {
 };
 
 async function setWeatherInformation() {
-  await fetch(
-    `https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/Chennai?unitGroup=metric&key=UE9M9BKJQVKZKBUXBFCBM2H2E&contentType=json`
-  )
-    .then(r => r.json())
+  const response = await fetch(
+    `https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/Chennai?unitGroup=metric&key=${process.env.VISUAL_CROSSING_API_KEY}&contentType=json`
+  );
+    then(r => r.json())
     .then(r => {
       DATA.city_temperature = Math.round(r.main.temp);
       DATA.feels_like_temp = Math.round(r.main.feels_like);
       DATA.city_weather = r.weather[0].description;
-      /** DATA.weather_icon = 'http://openweathermap.org/img/w/' + r.weather[0].icon + '.png'; */
+      DATA.weather_icon = 'http://visualcrossing.org/img/w/' + r.weather[0].icon + '.png'; 
       DATA.humidity = r.main.humidity;
       DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
         hour: '2-digit',

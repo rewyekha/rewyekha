@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/rewyekha/rewyekha#readme",
   "dependencies": {
-    "mustache": "^4.2.0"
+    "dotenv": "^16.4.5",
+    "mustache": "^4.2.0",
+    "node-fetch": "^3.3.2"
   }
 }
