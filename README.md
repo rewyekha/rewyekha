@@ -8,6 +8,7 @@
 <!-- GIF -->
 <img align="center" height="230" width="990" src="https://github.com/rewyekha/rewyekha/blob/61feb2eae96306c5d4e6021adeb6d6cf0d2589a1/Banner.gif" />
 
+
 <h3>Connect with me: </h3>
 
 <p align="center">
@@ -38,18 +39,24 @@
 
 <h2 align="left"><font face="Arial">Open for opportunities: YES</font></h2>
 
-
-<!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
+<p align="left">You can discuss about anything in my
+  <a href="https://gist.github.com/rewyekha/b4b54186d1df41e242f540d0dfbf2351.js">Chat Box.
+  </a>
+</p>
 
 
 - I work on Cloud services, Database, DevOps, Microservices, containers, and everything around it.
+
+
+  <!-- Languages and Tools Section -->
+<h3 align="left"><font size="+2" face="Verdana">📖Education:</font></h3>
   
-- Currently I'm pursuing: Master of Computer Applications (**MCA**) from University of Madras.
+- 🎓Undergraduate.  
+- Pursuing: Master of Computer Applications (**MCA**) from University of Madras.
 - Currently I'm learning: 
 1. C++ & DS, DSA, Digital logic fundamentals
 2. Artificial intelligence, Design & Analysis of algorithms, Object oriented analysis and Design, Web application development (C# & .net), Computer network.
-3. Machine learning, Software project management, Mobile application development & Labs.
+3. Machine learning, Software project management, Mobile application/Web application development.
 
 
 #### Programming Language Stack
@@ -88,13 +95,14 @@ src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" title="pycharm" width="40" height="40"/>
   <img src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" alt="clion" title="clion" width="40" height="40"/>
 </p>
+</details>
+</br>
+
+<br/>
+<details>
+  <summary>📊 GitHub Stats:</summary>
 
 
-
-
-
-
-# 📊 GitHub Stats:
 <img width="685" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rewyekha&theme=dark">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgesh4993&theme=dark)
@@ -102,3 +110,5 @@ src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgesh4993&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgesh4993&theme=dark&utcOffset=8)
 
+</details>
+</br>
