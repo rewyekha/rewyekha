@@ -1,3 +1,4 @@
+<!--START_SECTION:activity-->
 <!-- Header Section -->
 <h1>Welcome! <a href="https://github.com/rewyekha"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h1>
 <h1 align="center"><font face="Arial">I'm Reyas Khan | Adnan - Addy :)</font></h1>
