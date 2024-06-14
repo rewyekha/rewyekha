@@ -112,3 +112,8 @@ src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
 
 </details>
 </br>
+
+<br/>
+<details>
+  <summary>⛓️One Choice - lot of opportunities :</summary>
+<img align="center" height="500" width="500" src="https://github.com/rewyekha/rewyekha/blob/00f538eff0d513a2c5832e450c59289a3f5f8b52/_I%20think%20most%20people%20can%20learn%20a%20lot%20more%20than%20they%20think%20they%20can___%E2%80%94%20Elon%20Musk.jpg" />
