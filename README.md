@@ -51,7 +51,7 @@
   <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">📖 Education</font></h3>
 
-- **🎓 Undergraduate:** Bachelor’s Degree in [Your Field].
+- **🎓 Undergraduate:** Bachelor’s Degree in A/F.
 - **Pursuing:** Master of Computer Applications (**MCA**) from University of Madras.
 - **Current Studies:**
   - **Programming & Algorithms:** Digital Logic Fundamentals, DSA - C++, Design & Analysis of Algorithms.
