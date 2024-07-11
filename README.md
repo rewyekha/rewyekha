@@ -49,14 +49,14 @@
 
 
   <!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">📖Education:</font></h3>
-  
-- 🎓Undergraduate.  
-- Pursuing: Master of Computer Applications (**MCA**) from University of Madras.
-- Currently I'm learning: 
-1. C++ & DS, DSA, Digital logic fundamentals
-2. Artificial intelligence, Design & Analysis of algorithms, Object oriented analysis and Design, Web application development (C# & .net), Computer network.
-3. Machine learning, Software project management, Mobile application/Web application development.
+<h3 align="left"><font size="+2" face="Verdana">📖 Education</font></h3>
+
+- **🎓 Undergraduate:** Bachelor’s Degree in [Your Field].
+- **Pursuing:** Master of Computer Applications (**MCA**) from University of Madras.
+- **Current Studies:**
+  - **Programming & Algorithms:** Digital Logic Fundamentals, DSA - C++, Design & Analysis of Algorithms.
+  - **Artificial Intelligence & Software Development:** AI, ML, DL, Object-Oriented Analysis and Design, Web Application Development (C#, .NET).
+  - **Advanced Topics:** Machine Learning, Software Project Management, Mobile Application/Web Application Development.
 
 
 #### Programming Language Stack
