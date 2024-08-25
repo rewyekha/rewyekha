@@ -54,8 +54,8 @@
 - **🎓 Undergraduate:** Bachelor’s Degree in A/F.
 - **Pursuing:** Master of Computer Applications (**MCA**) from University of Madras.
 - **Current Studies:**
-  - **Programming & Algorithms:** Digital Logic Fundamentals, DSA - C++, Design & Analysis of Algorithms.
-  - **Artificial Intelligence & Software Development:** AI, ML, DL, Object-Oriented Analysis and Design, Web Application Development (C#, .NET).
+  - **Programming & Algorithms:** DSA - Java, Design & Analysis of Algorithms.
+  - **Artificial Intelligence & Software Development:** Object-Oriented Analysis and Design, Web Application Development (C#, .NET).
   - **Advanced Topics:** Machine Learning, Software Project Management, Mobile Application/Web Application Development.
 
 
