@@ -53,10 +53,7 @@
 
 - **🎓 Undergraduate:** Bachelor’s Degree in A/F.
 - **Pursuing:** Master of Computer Applications (**MCA**) from University of Madras.
-- **Current Studies:**
-  - **Programming & Algorithms:** DSA - Java, Design & Analysis of Algorithms.
-  - **Artificial Intelligence & Software Development:** Object-Oriented Analysis and Design, Web Application Development (C#, .NET).
-  - **Advanced Topics:** Machine Learning, Software Project Management, Mobile Application/Web Application Development.
+- **CS50x** Computer Science from Harvard University
 
 
 #### Programming Language Stack
