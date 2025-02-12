@@ -1,7 +1,7 @@
 <!--START_SECTION:activity-->
 <!-- Header Section -->
 <h1>Welcome! <a href="https://github.com/rewyekha"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h1>
-<h1 align="center"><font face="Arial">I'm Reyas Khan | Adnan - Addy :)</font></h1>
+<h1 align="center"><font face="Arial">I am Reyas, Adnan - Addy :)</font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/reyas-khan-16640825b/" target="_blank" rel="noreferrer">Reyas</a> is a passionate Software Engineer from Chennai - India.</font></h3>
 
 
@@ -37,7 +37,8 @@
 
 </p>
 
-<h2 align="left"><font face="Arial">Open for opportunities: YES</font></h2>
+<h2 align="left"><font face="Arial"></font></h2>
+<img align="center" height="400" width="990" src="https://github.com/rewyekha/rewyekha/blob/7687e54cc888b95c17c65da018ec5efbb7cc95b9/CERTIFIED%20BY.png" />
 
 <p align="left">You can discuss about anything in my
   <a href="https://gist.github.com/rewyekha/b4b54186d1df41e242f540d0dfbf2351.js">Chat Box.
@@ -51,9 +52,12 @@
   <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">📖 Education</font></h3>
 
-- **🎓 Undergraduate:** Bachelor’s Degree in A/F.
-- **Pursuing:** Master of Computer Applications (**MCA**) from University of Madras.
-- **CS50x** Computer Science from Harvard University
+- **🎓 Undergraduate:** Bachelor’s Degree.
+- **🎓 Postgraduate:** Master of Computer Applications (**MCA**).
+- **Microsoft** Certified Cloud engineer.
+- **AWS** Certified Cloud engineer.
+- **CS50x** Computer Science from Harvard University.
+- **CS50 SQL** from Harvard University.
 
 
 #### Programming Language Stack
