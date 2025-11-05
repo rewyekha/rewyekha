@@ -1,8 +1,8 @@
 <!--START_SECTION:activity-->
 <!-- Header Section -->
-<h1>Welcome! <a href="https://github.com/rewyekha"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h1>
+<h1>வணக்கம்! Folks!! <a href="https://github.com/rewyekha"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h1>
 <h1 align="center"><font face="Arial">I am Reyas, Adnan - Addy :)</font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/reyas-khan-16640825b/" target="_blank" rel="noreferrer">Reyas</a> is a passionate Software Engineer from Chennai - India.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/reyas-khan-16640825b/" target="_blank" rel="noreferrer">Reyas</a> is a passionate Software Engineer (Build and Release Engineer) from Chennai - India.</font></h3>
 
 
 <!-- GIF -->
@@ -47,6 +47,7 @@
 
 
 - I work on Cloud services, Database, DevOps, Microservices, containers, and everything around it.
+- Currently working as Build and Release Engineer.
 
 
   <!-- Languages and Tools Section -->
