@@ -47,7 +47,7 @@
 
 
 - I work on Cloud services, Database, DevOps, Microservices, containers, and everything around it.
-- Currently working as Build and Release Engineer.
+- Currently working as a Build and Release Engineer.
 
 
   <!-- Languages and Tools Section -->
