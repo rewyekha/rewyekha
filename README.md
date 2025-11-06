@@ -2,7 +2,7 @@
 <!-- Header Section -->
 <h1>வணக்கம்! Folks!! <a href="https://github.com/rewyekha"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h1>
 <h1 align="center"><font face="Arial">I am Reyas, Adnan - Addy :)</font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/reyas-khan-16640825b/" target="_blank" rel="noreferrer">Reyas</a> is a passionate Software Engineer (Build and Release Engineer) from Chennai - India.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/reyas-khan-16640825b/" target="_blank" rel="noreferrer">Reyas</a> is a passionate Software Engineer (DevOps) from Chennai.</font></h3>
 
 
 <!-- GIF -->
@@ -60,6 +60,9 @@
 - **CS50x** Computer Science from Harvard University.
 - **CS50 SQL** from Harvard University.
 
+  <!-- Languages and Tools Section -->
+<h3 align="left"><font size="+2" face="Verdana"> One thing about Me:</font></h3>
+- Curious learner: I love exploring new things. Even though I struggle sometimes, I do it with excitement and love for my profession.
 
 #### Programming Language Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img 
