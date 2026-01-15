@@ -234,8 +234,6 @@ class DevOpsEngineer:
 </div>
 
 <br/>
-<details/>
-
      
 <!-- Rainbow divider -->
 <p align="center">
