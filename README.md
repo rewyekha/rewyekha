@@ -1,125 +1,417 @@
-<!--START_SECTION:activity-->
-<!-- Header Section -->
-<h1>வணக்கம்! Folks!! <a href="https://github.com/rewyekha"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h1>
-<h1 align="center"><font face="Arial">I am Reyas, Adnan - Addy :)</font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/reyas-khan-16640825b/" target="_blank" rel="noreferrer">Reyas</a> is a passionate Software Engineer (DevOps) from Chennai.</font></h3>
+<!-- 
+╔══════════════════════════════════════════════════════════════════════════════════════════╗
+║                        🌐 MULTI-LANGUAGE GITHUB PROFILE                                  ║
+║                                                                                          ║
+║  This README serves as a landing page with language selection.                           ║
+║  All translated content is stored in the /lang folder.                                   ║
+║                                                                                          ║
+║  DESIGN NOTES:                                                                           ║
+║  - Uses GitHub-compatible Markdown and HTML only                                         ║
+║  - NO JavaScript, APIs, cookies, or dynamic features                                     ║
+║  - Cyberpunk/AI theme with dark color scheme                                             ║
+║  - Animated elements via external SVG services (GitHub-safe)                             ║
+║  - Unicode box-drawing characters for decorative frames                                  ║
+╚══════════════════════════════════════════════════════════════════════════════════════════╝
+-->
 
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════
+     ANIMATED GRADIENT HEADER
+     Uses capsule-render for smooth gradient wave animation
+     ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=REYAS%20KHAN&fontSize=80&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=⚡%20DevOps%20Engineer%20|%20Cloud%20Architect%20|%20Builder%20⚡&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- GIF -->
-<img align="center" height="230" width="990" src="https://github.com/rewyekha/rewyekha/blob/61feb2eae96306c5d4e6021adeb6d6cf0d2589a1/Banner.gif" />
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════
+     LANGUAGE SELECTION HERO SECTION
+     ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
+<div align="center">
 
-<h3>Connect with me: </h3>
+<br/>
 
+<!-- Futuristic ASCII Art Logo using Unicode box-drawing characters -->
+```
+    ╔═══════════════════════════════════════════════════════════════════════════════════╗
+    ║                                                                                   ║
+    ║     ██████╗ ███████╗██╗   ██╗ █████╗ ███████╗    ██╗  ██╗██╗  ██╗ █████╗ ███╗   ██╗║
+    ║     ██╔══██╗██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝    ██║ ██╔╝██║  ██║██╔══██╗████╗  ██║║
+    ║     ██████╔╝█████╗   ╚████╔╝ ███████║███████╗    █████╔╝ ███████║███████║██╔██╗ ██║║
+    ║     ██╔══██╗██╔══╝    ╚██╔╝  ██╔══██║╚════██║    ██╔═██╗ ██╔══██║██╔══██║██║╚██╗██║║
+    ║     ██║  ██║███████╗   ██║   ██║  ██║███████║    ██║  ██╗██║  ██║██║  ██║██║ ╚████║║
+    ║     ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝║
+    ║                                                                                   ║
+    ║     ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀║
+    ║           ⚡ SOFTWARE ENGINEER  |  ☁️ CLOUD  |  🔧 DevOps  |  🐳 CONTAINERS ⚡     ║
+    ╚═══════════════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<!-- Animated Welcome Text using readme-typing-svg service -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&lines=%E2%9A%A1+WELCOME+TO+MY+DIGITAL+REALM+%E2%9A%A1;%F0%9F%8C%90+SELECT+YOUR+LANGUAGE+BELOW+%F0%9F%8C%90" alt="Welcome"/>
+
+<br/><br/>
+
+<!-- Visitor Counter with cyberpunk styling -->
+<a href="https://github.com/rewyekha">
+  <img src="https://komarev.com/ghpvc/?username=rewyekha&style=for-the-badge&color=00ff41&label=⚡+MATRIX+VISITORS" alt="Profile Views"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- Animated gradient divider GIF -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════
+     LANGUAGE SELECTION CARDS
+     Each card links to a fully translated README in the /lang folder
+     ═══════════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│  ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈  🌐 SELECT YOUR LANGUAGE 🌐  ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈  │
+└───────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<!-- Language Selection Badges using shields.io -->
+<table>
+<tr>
+<td align="center" width="20%">
+<a href="lang/README.md">
+<img src="https://img.shields.io/badge/🔴_தமிழ்-Tamil-ff0040?style=for-the-badge&labelColor=0d1117" width="150"/>
+</a>
+<br/><br/>
+<sub><b>தமிழ்</b></sub>
+</td>
+<td align="center" width="20%">
+<a href="lang/README.en.md">
+<img src="https://img.shields.io/badge/🔵_English-EN-00a8ff?style=for-the-badge&labelColor=0d1117" width="150"/>
+</a>
+<br/><br/>
+<sub><b>English</b></sub>
+</td>
+<td align="center" width="20%">
+<a href="lang/README.es.md">
+<img src="https://img.shields.io/badge/🟡_Español-ES-ffd700?style=for-the-badge&labelColor=0d1117" width="150"/>
+</a>
+<br/><br/>
+<sub><b>Español</b></sub>
+</td>
+<td align="center" width="20%">
+<a href="lang/README.fr.md">
+<img src="https://img.shields.io/badge/🟣_Français-FR-9b59b6?style=for-the-badge&labelColor=0d1117" width="150"/>
+</a>
+<br/><br/>
+<sub><b>Français</b></sub>
+</td>
+<td align="center" width="20%">
+<a href="lang/README.ja.md">
+<img src="https://img.shields.io/badge/⚪_日本語-JA-ffffff?style=for-the-badge&labelColor=0d1117" width="150"/>
+</a>
+<br/><br/>
+<sub><b>日本語</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Quick language jump links using kbd tags -->
+<p>
+  <a href="lang/README.md"><kbd>🔴 தமிழ்</kbd></a> •
+  <a href="lang/README.en.md"><kbd>🔵 English</kbd></a> •
+  <a href="lang/README.es.md"><kbd>🟡 Español</kbd></a> •
+  <a href="lang/README.fr.md"><kbd>🟣 Français</kbd></a> •
+  <a href="lang/README.ja.md"><kbd>⚪ 日本語</kbd></a>
+</p>
+
+</div>
+
+<br/>
+
+<!-- Rainbow line divider -->
 <p align="center">
-  <a href="https://rewyekha.github.io/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
-  <a href="https://www.linkedin.com/in/reyas-khan-16640825b/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="reyaskhan001@gmail.com">
-    <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://dev.to/rey-addy">
-    <img alt="Dev Community" src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-</a>
-  <a href="">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/reyaskhan001">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/rey_khan/">
-    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
-</a>
-
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-<h2 align="left"><font face="Arial"></font></h2>
-<img align="center" height="400" width="990" src="https://github.com/rewyekha/rewyekha/blob/7687e54cc888b95c17c65da018ec5efbb7cc95b9/CERTIFIED%20BY.png" />
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════
+     QUICK PREVIEW SECTION
+     ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
-<p align="left">You can discuss about anything in my
-  <a href="https://gist.github.com/rewyekha/b4b54186d1df41e242f540d0dfbf2351.js">Chat Box.
-  </a>
-</p>
+<div align="center">
 
+```
+╔═══════════════════════════════════════════════════════════════════════════════════════════╗
+║                               ⚡ QUICK PREVIEW ⚡                                          ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════╝
+```
 
-- I work on Cloud services, Database, DevOps, Microservices, containers, and everything around it.
-- Currently working as a Build and Release Engineer.
+</div>
 
+<br/>
 
-  <!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">📖 Education</font></h3>
+<!-- Banner GIF -->
+<div align="center">
+  <img src="https://github.com/rewyekha/rewyekha/blob/61feb2eae96306c5d4e6021adeb6d6cf0d2589a1/Banner.gif" width="100%" alt="Banner"/>
+</div>
 
-- **🎓 Undergraduate:** Bachelor’s Degree.
-- **🎓 Postgraduate:** Master of Computer Applications (**MCA**).
-- **Microsoft** Certified Cloud engineer.
-- **AWS** Certified Cloud engineer.
-- **CS50x** Computer Science from Harvard University.
-- **CS50 SQL** from Harvard University.
+<br/>
 
-  <!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana"> One thing about Me:</font></h3>
-- Curious learner: I love exploring new things. Even though I struggle sometimes, I do it with excitement and love for my profession.
+<!-- About section using HTML tables for layout -->
+<div align="center">
 
-#### Programming Language Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img 
-src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" title="sqlite" width="40" height="40"/> <img                                                                                                                                                 src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" title="go" width="40" height="40"/> <img
-src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" title="javascript" width="40" height="40"/> <img
-src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="w3_html5" title="w3_html5" width="40" height="40"/>  <img                                                          src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="w3_css" title="w3_css" width="40" height="40"/>  <img
-src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"  alt="w3_xml" title="xml" width="40" height="40"/>                                                                                                                  
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### ⚡ Quick Facts
 
-#### OS Stack
-<p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img  
-src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" title="redhat" width="40" height="40"/>  <img 
-src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="alpine" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/> </p>
+```yaml
+Name: Reyas Khan (Adnan - Addy)
+Role: Build & Release Engineer
+Location: Chennai, India
+Expertise:
+  - ☁️ Cloud (AWS, Azure, GCP)
+  - 🐳 Containers & Kubernetes
+  - 🔄 CI/CD Pipelines
+  - 🏗️ Infrastructure as Code
+```
 
-#### Database Stack
-<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="cassandra" title="mongodb" width="40" height="40"/> </p>
+</td>
+<td width="50%" valign="top">
 
-#### Dev Stack
-<p align="left"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_maven.svg" alt="maven" title="maven" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/scala-sbt/scala-sbt-icon.svg" alt="sbt" title="sbt" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" title="kafka" width="40" height="40"/> </p>
-
-#### DevOps Stack 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/> <img
-src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="microsoft_azure" title="microsoft_azure" width="40" height="40"/>    <img                                                                                                                                   src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="gcp" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefik" title="traefik" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx" title="nginx" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" title="kibana" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethues" title="promethues" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40"/> </p>
-
-
-#### Project Management Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/> </p>
-
-#### Editor / IDE I ♥
+### 🌐 Connect
 
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" title="pycharm" width="40" height="40"/>
-  <img src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" alt="clion" title="clion" width="40" height="40"/>
+  <a href="https://rewyekha.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-00ff41?style=flat-square&logo=About.me&logoColor=black"/>
+  </a>
+  <a href="https://www.linkedin.com/in/reyas-khan-16640825b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:reyaskhan001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/rey-addy">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"/>
+  </a>
 </p>
-</details>
-</br>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Gradient divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════
+     TECH STACK ICONS using skillicons.dev
+     ═══════════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│  🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧  TECH ARSENAL  🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧  │
+└───────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 <br/>
-<details>
-  <summary>📊 GitHub Stats:</summary>
 
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,python,go,bash,linux&theme=dark" alt="Tech Stack"/>
 
-<img width="685" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rewyekha&theme=dark">
+<br/><br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgesh4993&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgesh4993&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgesh4993&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgesh4993&theme=dark&utcOffset=8)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,prometheus,grafana,nginx,mysql,postgres,mongodb&theme=dark" alt="Tools"/>
 
-</details>
-</br>
+</div>
 
 <br/>
-<details>
-  <summary>⛓️One Choice - lot of opportunities :</summary>
-<img align="right" height="365" width="365" src="https://github.com/rewyekha/rewyekha/blob/00f538eff0d513a2c5832e450c59289a3f5f8b52/_I%20think%20most%20people%20can%20learn%20a%20lot%20more%20than%20they%20think%20they%20can___%E2%80%94%20Elon%20Musk.jpg" />
-<img align="left" height="365" width="365" src="https://github.com/rewyekha/rewyekha/blob/734996fb04431de489453bfcc6f32f5b291cccee/APJ.jpg" />
+
+<!-- Rainbow divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════
+     CERTIFICATIONS
+     ═══════════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════════════════╗
+║                              🏆 CERTIFICATIONS 🏆                                          ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<img src="https://github.com/rewyekha/rewyekha/blob/7687e54cc888b95c17c65da018ec5efbb7cc95b9/CERTIFIED%20BY.png" width="80%" alt="Certifications"/>
+
+</div>
+
+<br/>
+
+<!-- Gradient divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════
+     GITHUB STATS using github-readme-stats and streak-stats
+     ═══════════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│  📊 📊 📊 📊 📊 📊 📊 📊 📊 📊  GITHUB STATS  📊 📊 📊 📊 📊 📊 📊 📊 📊 📊 📊  │
+└───────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rewyekha&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rewyekha&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff0040&currStreakLabel=00ff41" width="48%" alt="Streak Stats"/>
+</p>
+
+<br/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rewyekha&theme=chartreuse_dark" width="90%" alt="Profile Details"/>
+
+</div>
+
+<br/>
+
+<!-- Rainbow divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════
+     INSPIRATIONAL SECTION
+     ═══════════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════════════════╗
+║                     ✨ ONE CHOICE - LOTS OF OPPORTUNITIES ✨                              ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github.com/rewyekha/rewyekha/blob/00f538eff0d513a2c5832e450c59289a3f5f8b52/_I%20think%20most%20people%20can%20learn%20a%20lot%20more%20than%20they%20think%20they%20can___%E2%80%94%20Elon%20Musk.jpg" width="100%" alt="Elon Musk Quote"/>
+</td>
+<td width="50%">
+<img src="https://github.com/rewyekha/rewyekha/blob/734996fb04431de489453bfcc6f32f5b291cccee/APJ.jpg" width="100%" alt="APJ Quote"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Final gradient divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════
+     FOOTER with ASCII art
+     ═══════════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                           ║
+║      ██████╗ ███████╗██╗   ██╗ █████╗ ███████╗    ██╗  ██╗██╗  ██╗ █████╗ ███╗   ██╗      ║
+║      ██╔══██╗██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝    ██║ ██╔╝██║  ██║██╔══██╗████╗  ██║      ║
+║      ██████╔╝█████╗   ╚████╔╝ ███████║███████╗    █████╔╝ ███████║███████║██╔██╗ ██║      ║
+║      ██╔══██╗██╔══╝    ╚██╔╝  ██╔══██║╚════██║    ██╔═██╗ ██╔══██║██╔══██║██║╚██╗██║      ║
+║      ██║  ██║███████╗   ██║   ██║  ██║███████║    ██║  ██╗██║  ██║██║  ██║██║ ╚████║      ║
+║      ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝      ║
+║                                                                                           ║
+║                          ⚡ Powered by Coffee & Curiosity ☕                               ║
+║                                                                                           ║
+║     ┌─────────────────────────────────────────────────────────────────────────────────┐   ║
+║     │  🔴 தமிழ்  │  🔵 English  │  🟡 Español  │  🟣 Français  │  ⚪ 日本語  │   ║
+║     └─────────────────────────────────────────────────────────────────────────────────┘   ║
+║                                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<!-- Random Dev Quote using quotes-github-readme -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+
+<br/><br/>
+
+<!-- Snake animation - requires GitHub Actions workflow to generate -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rewyekha/rewyekha/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<br/><br/>
+
+<!-- Final language reminder -->
+<p>
+  <b>🌐 View this profile in your language:</b>
+  <a href="lang/README.md"><kbd>தமிழ்</kbd></a> •
+  <a href="lang/README.en.md"><kbd>English</kbd></a> •
+  <a href="lang/README.es.md"><kbd>Español</kbd></a> •
+  <a href="lang/README.fr.md"><kbd>Français</kbd></a> •
+  <a href="lang/README.ja.md"><kbd>日本語</kbd></a>
+</p>
+
+<br/>
+
+<sub>⚡ Last Updated: 2026 | 💜 Made with passion | 🌐 Multi-language support</sub>
+
+</div>
+
+<!-- Wave footer using capsule-render -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" width="100%"/>
+
+<!-- 
+╔══════════════════════════════════════════════════════════════════════════════════════════╗
+║  END OF MAIN README                                                                      ║
+║                                                                                          ║
+║  STRUCTURE:                                                                              ║
+║  ├── README.md (this file - landing page with language selection)                        ║
+║  └── lang/                                                                               ║
+║      ├── README.md       → Tamil (தமிழ்) - Primary                                       ║
+║      ├── README.en.md    → English                                                       ║
+║      ├── README.es.md    → Spanish (Español)                                             ║
+║      ├── README.fr.md    → French (Français)                                             ║
+║      └── README.ja.md    → Japanese (日本語)                                             ║
+║                                                                                          ║
+║  DESIGN ELEMENTS EXPLAINED:                                                              ║
+║  • ASCII art headers: Unicode box-drawing characters (╔═║╚┌─┐└┘)                         ║
+║  • Animated typing: readme-typing-svg.demolab.com (no JS, returns SVG)                   ║
+║  • Gradient waves: capsule-render.vercel.app (no JS, returns SVG)                        ║
+║  • Animated dividers: GIF images hosted on GitHub                                        ║
+║  • Skill icons: skillicons.dev (no JS, returns SVG)                                      ║
+║  • Stats cards: github-readme-stats, streak-stats (no JS, return SVG)                    ║
+║  • Snake animation: Requires GitHub Actions workflow to generate SVG                     ║
+║  • Dev quotes: quotes-github-readme (no JS, returns SVG)                                 ║
+║                                                                                          ║
+║  All elements are 100% GitHub Markdown compatible - NO JavaScript required!              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════╝
+-->
