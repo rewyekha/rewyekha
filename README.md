@@ -164,15 +164,10 @@ Expertise:
   - 🔄 CI/CD Pipelines
   - 🏗️ Infrastructure as Code
 ```
-
-</td>
-<td width="50%" valign="top">
-
 ### 🌐 Connect
-
 <p>
-  <a href="https://rewyekha.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-00ff41?style=flat-square&logo=About.me&logoColor=black"/>
+  <a href="https://reyaskhan.tech">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=About.me&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/reyas-khan-16640825b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -186,11 +181,33 @@ Expertise:
 </p>
 
 </td>
+<td width="50%" valign="top">
+
+### ⚡ Focus on:
+```python
+class DevOpsEngineer:
+    def __init__(self):
+        self.name = "Reyas Khan"
+        self.role = "Build & Release Engineer"
+        self.passion = "Cloud & Automation"
+        
+    def daily_tasks(self):
+        return [
+            "☁️ Cloud Infrastructure",
+            "🔧 DevOps Pipelines",
+            "📦 Container Orchestration",
+            "🔒 Security Automation"
+        ]
+```
+
+
+
+</td>
 </tr>
 </table>
 
 </div>
-
+<details open>
 <!-- Gradient divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -202,7 +219,7 @@ Expertise:
 
 ```
 ┌───────────────────────────────────────────────────────────────────────────────────────────┐
-│  🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧  TECH ARSENAL  🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧  │
+│                               🔧  TECH ARSENAL  🔧                                       │
 └───────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -217,7 +234,7 @@ Expertise:
 </div>
 
 <br/>
-
+     
 <!-- Rainbow divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -231,7 +248,7 @@ Expertise:
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════════════╗
-║                              🏆 CERTIFICATIONS 🏆                                          ║
+║                              🏆 CERTIFIED BY 🏆                                          ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -254,7 +271,7 @@ Expertise:
 
 ```
 ┌───────────────────────────────────────────────────────────────────────────────────────────┐
-│  📊 📊 📊 📊 📊 📊 📊 📊 📊 📊  GITHUB STATS  📊 📊 📊 📊 📊 📊 📊 📊 📊 📊 📊  │
+│                                  📊  GITHUB STATS  📊                                    │
 └───────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -326,10 +343,10 @@ Expertise:
 ║      ██║  ██║███████╗   ██║   ██║  ██║███████║    ██║  ██╗██║  ██║██║  ██║██║ ╚████║      ║
 ║      ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝      ║
 ║                                                                                           ║
-║                          ⚡ Powered by Coffee & Curiosity ☕                               ║
+║                          ⚡ Powered by Coffee & Curiosity ☕                             ║
 ║                                                                                           ║
 ║     ┌─────────────────────────────────────────────────────────────────────────────────┐   ║
-║     │  🔴 தமிழ்  │  🔵 English  │  🟡 Español  │  🟣 Français  │  ⚪ 日本語  │   ║
+║     │  🔴 தமிழ்  │  🔵 English  │  🟡 Español  │  🟣 Français  │  ⚪ 日本語        │   ║
 ║     └─────────────────────────────────────────────────────────────────────────────────┘   ║
 ║                                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════╝
@@ -371,19 +388,8 @@ Expertise:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" width="100%"/>
 
 <!-- 
-╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║  END OF MAIN README                                                                      ║
-║                                                                                          ║
-║  STRUCTURE:                                                                              ║
-║  ├── README.md (this file - landing page with language selection)                        ║
-║  └── lang/                                                                               ║
-║      ├── README.md       → Tamil (தமிழ்) - Primary                                       ║
-║      ├── README.en.md    → English                                                       ║
-║      ├── README.es.md    → Spanish (Español)                                             ║
-║      ├── README.fr.md    → French (Français)                                             ║
-║      └── README.ja.md    → Japanese (日本語)                                             ║
-║                                                                                          ║
-║  DESIGN ELEMENTS EXPLAINED:                                                              ║
+╔══════════════════════════════════════════════════════════════════════════════════════════╗                                                                                     ║
+║  DESIGN ELEMENTS:                                                              ║
 ║  • ASCII art headers: Unicode box-drawing characters (╔═║╚┌─┐└┘)                         ║
 ║  • Animated typing: readme-typing-svg.demolab.com (no JS, returns SVG)                   ║
 ║  • Gradient waves: capsule-render.vercel.app (no JS, returns SVG)                        ║
