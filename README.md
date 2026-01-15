@@ -26,25 +26,6 @@
 
 <div align="center">
 
-<br/>
-
-<!-- Futuristic ASCII Art Logo using Unicode box-drawing characters -->
-```
-    ╔═══════════════════════════════════════════════════════════════════════════════════╗
-    ║                                                                                   ║
-    ║     ██████╗ ███████╗██╗   ██╗ █████╗ ███████╗    ██╗  ██╗██╗  ██╗ █████╗ ███╗   ██╗║
-    ║     ██╔══██╗██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝    ██║ ██╔╝██║  ██║██╔══██╗████╗  ██║║
-    ║     ██████╔╝█████╗   ╚████╔╝ ███████║███████╗    █████╔╝ ███████║███████║██╔██╗ ██║║
-    ║     ██╔══██╗██╔══╝    ╚██╔╝  ██╔══██║╚════██║    ██╔═██╗ ██╔══██║██╔══██║██║╚██╗██║║
-    ║     ██║  ██║███████╗   ██║   ██║  ██║███████║    ██║  ██╗██║  ██║██║  ██║██║ ╚████║║
-    ║     ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝║
-    ║                                                                                   ║
-    ║     ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀║
-    ║           ⚡ SOFTWARE ENGINEER  |  ☁️ CLOUD  |  🔧 DevOps  |  🐳 CONTAINERS ⚡     ║
-    ╚═══════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
 
 <!-- Animated Welcome Text using readme-typing-svg service -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&lines=%E2%9A%A1+WELCOME+TO+MY+DIGITAL+REALM+%E2%9A%A1;%F0%9F%8C%90+SELECT+YOUR+LANGUAGE+BELOW+%F0%9F%8C%90" alt="Welcome"/>
