@@ -99,6 +99,11 @@
 <tr>
 <td width="50%" valign="top">
 
+
+
+<td width="50%" valign="top">
+  <div align="left">
+
 #### Profile
 
 ```yaml
@@ -123,6 +128,9 @@ focus:
 </td>
 <td width="50%" valign="top">
 
+<td width="50%" valign="top">
+  <div align="left">
+
 #### Operating Principles
 
 ```python
@@ -140,7 +148,6 @@ class Engineer:
             "Leave it better than you found it.",
         ]
 ```
-
 </td>
 </tr>
 </table>
