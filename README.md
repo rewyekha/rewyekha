@@ -1,7 +1,6 @@
 > [!NOTE]
-> **Preview branch.** This is a draft of a new profile README, pushed to `profile-preview`
-> so it can be reviewed rendered. `main` is untouched. Asset URLs point at this branch;
-> they change to `main` when it is merged.
+> **Preview branch.** Draft profile README on `profile-preview`. `main` is untouched.
+> Asset URLs point at this branch; they switch to `main` when merged.
 
 <!--
   ══════════════════════════════════════════════════════════════════════════════
@@ -20,12 +19,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/profile-preview/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/profile-preview/light.svg">
-  <img alt="Reyas Khan M — Build and Release Engineer" src="https://raw.githubusercontent.com/rewyekha/rewyekha/profile-preview/dark.svg" width="100%">
+  <img alt="Reyas Khan M — infrastructure and delivery" src="https://raw.githubusercontent.com/rewyekha/rewyekha/profile-preview/dark.svg" width="100%">
 </picture>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3600&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&height=34&lines=1%2C100%2B+installer+modules.+98%25%2B+green.;Source+control+to+production%2C+end+to+end.;Azure+DevOps+%2B+GitHub+Actions+%2B+Terraform+%2B+AKS.;Legacy+ERP+releases+that+ship+on+schedule." alt="tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3600&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&height=34&lines=kernel+-%3E+container+-%3E+cluster+-%3E+cloud+-%3E+production.;I+like+knowing+what+the+layer+below+is+doing.;Infrastructure+as+code%2C+and+pipelines+that+stay+boring.;Currently+breaking+things+with+Kafka+and+GitOps." alt="tagline"/>
 
 <br/>
 
@@ -45,12 +44,6 @@
 <a href="https://github.com/rewyekha?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0A0F1C?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="Repositories"/></a>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Chennai,_IN-0A0F1C?style=for-the-badge&logo=googlemaps&logoColor=7C8FAB" alt="Chennai"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Open_to_work-Azure_DevOps_·_Build_%26_Release_·_Cloud_Infra-34D399?style=flat-square&labelColor=0A0F1C" alt="open to work"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Notice-Immediate_to_15_days-38BDF8?style=flat-square&labelColor=0A0F1C" alt="notice period"/>
 
 </div>
 
@@ -74,35 +67,17 @@
 
 ## What I actually do
 
-I am a **Build and Release engineer**, four years in, Azure-first. My job is the part between a
-developer pressing push and a customer getting the change — and keeping that path boring.
+I work on the path between a developer pressing push and that change reaching production, and I
+try to keep that path boring. CI/CD, infrastructure as code, and the plumbing underneath it —
+build agents, container images, clusters, and the monitoring that tells you when it went wrong.
 
-Most of my week is an enterprise **Sage 500 ERP** product for a US client. That is **1,100+
-installer modules** across VBScript, .NET and C++, held above **98% build success**, with source in
-**GitHub** on a **GitFlow** model and **semantic versioning** across client builds and database
-builds. I run the builds, apply the schema scripts, package with **InstallShield**, and get the
-release out with client sign-off.
+What I actually enjoy is the **layers**. Kernel, systemd and cgroups at the bottom. Containers and
+clusters in the middle. Cloud and enterprise production at the top. Most interesting failures
+happen because one layer is quietly lying to the layer above it, and you only find that by knowing
+how both of them work.
 
-The rest is our internal delivery platform: **20+ multi-stage Azure DevOps YAML pipelines** for
-Angular, .NET and Flutter apps, promoting through dev → staging → UAT → production, with
-**SonarQube** and **Trivy** as gates. Underneath it all sits a hybrid estate — **Azure VMs and
-on-premises Nutanix** — provisioned with **Terraform** and configured with **Ansible**.
-
-I like legacy systems. Greenfield is easy. Keeping a twenty-year-old product shipping on schedule
-is the interesting problem.
-
-<br/>
-
-<div align="center">
-
-| | | |
-|:--:|:--:|:--:|
-| **1,100+** | **98%+** | **20+** |
-| installer modules | build success rate | multi-stage pipelines |
-| **4** | **&lt;1%** | **~70%** |
-| environments, dev→prod | deployment failure rate | manual release effort removed |
-
-</div>
+I like legacy systems too. Greenfield is easy. Keeping an old system shipping on schedule is the
+more interesting problem, and it teaches you more.
 
 ---
 
@@ -116,21 +91,34 @@ is the interesting problem.
 
 **Delivery &amp; automation**
 
-<img src="https://skillicons.dev/icons?i=github,githubactions,git,powershell,bash,python&theme=dark" alt="delivery and automation"/>
+<img src="https://skillicons.dev/icons?i=github,githubactions,git,jenkins,powershell,bash,python&theme=dark" alt="delivery and automation"/>
 
-**Observability &amp; platforms**
+**Data, streaming &amp; platforms**
 
-<img src="https://skillicons.dev/icons?i=grafana,prometheus,windows,linux,redhat,nginx&theme=dark" alt="observability and platforms"/>
+<img src="https://skillicons.dev/icons?i=kafka,redis,mysql,nginx,linux,windows&theme=dark" alt="data streaming and platforms"/>
+
+**Observability**
+
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,redhat,ubuntu&theme=dark" alt="observability"/>
 
 <br/><br/>
 
 <!--
-  Azure DevOps, SonarQube and InstallShield have no skillicons slug, and their
-  shields.io simple-icons logos render as an empty glyph on a custom colour.
-  Text-only badges on brand colours, which is the reliable option.
+  These have no skillicons slug. shields.io text-only badges on brand colours,
+  because the Microsoft marks and several others now render an empty glyph.
 -->
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&labelColor=0A0F1C" alt="Azure DevOps"/>
 &nbsp;
+<img src="https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=gitea&logoColor=white&labelColor=0A0F1C" alt="Gitea"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Forgejo-FB923C?style=flat-square&logo=forgejo&logoColor=white&labelColor=0A0F1C" alt="Forgejo"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white&labelColor=0A0F1C" alt="Helm"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white&labelColor=0A0F1C" alt="Argo CD"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white&labelColor=0A0F1C" alt="Kafka"/>
+<br/><br/>
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&labelColor=0A0F1C" alt="SonarQube"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=trivy&logoColor=white&labelColor=0A0F1C" alt="Trivy"/>
@@ -145,55 +133,11 @@ is the interesting problem.
 &nbsp;
 <img src="https://img.shields.io/badge/Azure_SQL-0078D7?style=flat-square&labelColor=0A0F1C" alt="Azure SQL"/>
 
+<br/><br/>
+
+<sub><b>Currently learning</b> — Kafka &amp; event streaming · GitOps with Argo CD · Helm charts · self-hosting Gitea and Forgejo · Jenkins</sub>
+
 </div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Day to day**
-
-```yaml
-source:      GitHub (client product)
-             Azure DevOps Repos (internal)
-branching:   GitFlow — feature / release / hotfix
-versioning:  semantic, MAJOR.MINOR.PATCH
-build:       Builder + DB Builder, MSBuild
-package:     InstallShield · MSIX
-gates:       SonarQube (SAST) · Trivy (images)
-promote:     dev → staging → UAT → production
-approval:    client sign-off before production
-observe:     Prometheus · Grafana · Azure Monitor
-```
-
-</td>
-<td width="50%" valign="top">
-
-**How I work**
-
-```python
-class ReleaseEngineer:
-    """Boring releases are the goal."""
-
-    principles = [
-        "Build once, promote the same artifact.",
-        "A red build is everyone's problem.",
-        "Automate the step you have done twice.",
-        "If you cannot roll it back, do not ship it.",
-        "Version everything, including the database.",
-    ]
-
-    def on_failure(self, incident):
-        return ["stabilise", "diagnose",
-                "fix forward or roll back",
-                "write the RCA", "close the gap"]
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -215,7 +159,7 @@ class ReleaseEngineer:
 
 <br/><br/>
 
-<sub><i>In progress — AZ-400 Designing and Implementing DevOps Solutions</i></sub>
+<sub><i>Next up — AZ-400 Designing and Implementing DevOps Solutions</i></sub>
 
 </div>
 
@@ -225,22 +169,17 @@ class ReleaseEngineer:
 
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=rewyekha&hide_border=true&background=0A0F1C&stroke=1E2C47&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8&sideLabels=7C8FAB&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=4A5A75&titleColor=38BDF8" alt="streak"/>
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rewyekha&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=38BDF8&icon_color=34D399&text_color=7C8FAB&bg_color=0A0F1C" alt="stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewyekha&layout=compact&langs_count=8&hide_border=true&title_color=38BDF8&text_color=7C8FAB&bg_color=0A0F1C" alt="top languages"/>
+<img width="46%" src="https://streak-stats.demolab.com/?user=rewyekha&hide_border=true&background=0A0F1C&stroke=1E2C47&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8&sideLabels=7C8FAB&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=4A5A75&titleColor=38BDF8" alt="streak"/>
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewyekha&layout=compact&langs_count=6&hide_border=true&title_color=38BDF8&text_color=7C8FAB&bg_color=0A0F1C" alt="top languages"/>
 
 </div>
 
 <!--
-  hide_rank=true is deliberate. The letter grade is weighted heavily toward
-  stars and followers, so it measures repo popularity rather than engineering.
-
-  These two cards point at the shared public instance, which regularly returns
-  "API rate limit exceeded". Self-host it (fork anuraghazra/github-readme-stats,
-  deploy on Vercel, set PAT_1) and replace the host in both URLs above.
+  Kept deliberately small. The full-width stats card was noisy and the shared
+  public github-readme-stats instance regularly returns 503 / "Failed to
+  retrieve contributions", which is a rate limit on their side, not a problem
+  with this profile. Self-host it (fork anuraghazra/github-readme-stats, deploy
+  on Vercel, set PAT_1) and swap the host in the top-langs URL above.
 -->
 
 ---
@@ -266,36 +205,17 @@ class ReleaseEngineer:
 
 ---
 
-## Selected work
+## Writing
 
-<div align="center">
-
-</div>
-
-<!--
-  Deliberately a plain table, not github-readme-stats pin cards. That service
-  shares one instance across thousands of users and was returning 503 when this
-  README was written. A table never breaks.
--->
-
-| Repository | What it is |
-|---|---|
-| **[cloud-native-monitoring-application](https://github.com/rewyekha/cloud-native-monitoring-application)** | Containerised monitoring stack — metrics collection through to dashboards. |
-| **[Azure-Case-Studies](https://github.com/rewyekha/Azure-Case-Studies)** | Hands-on Azure architecture and implementation write-ups. |
-
-**Writing** — [DevOps Mastery on AWS](https://reyaskhan.me) · [3-Tier Application on Azure](https://reyaskhan.me) · [KodeKloud DevOps Mastery solutions](https://reyaskhan.me)
+[DevOps Mastery on AWS](https://reyaskhan.me) · [3-Tier Application on Azure](https://reyaskhan.me) · [KodeKloud DevOps Mastery solutions](https://reyaskhan.me)
 
 ---
 
 <div align="center">
 
-<sub>
+Azure DevOps Engineer · DevOps Engineer · Build &amp; Release Engineer · Cloud Infrastructure Engineer
 
-**Open to** Azure DevOps Engineer · DevOps Engineer · Build &amp; Release Engineer · Cloud Infrastructure Engineer
-<br/>
-Chennai, primary · Hyderabad, open · Immediate to 15 days
-
-</sub>
+Chennai · open to Hyderabad
 
 <br/>
 
