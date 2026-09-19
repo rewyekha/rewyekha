@@ -1,7 +1,3 @@
-> [!NOTE]
-> **Preview branch.** Draft profile README on `profile-preview`. `main` is untouched.
-> Asset URLs point at this branch; they switch to `main` when merged.
-
 <!--
   ══════════════════════════════════════════════════════════════════════════════
   github.com/rewyekha  ·  profile README
@@ -17,9 +13,9 @@
 <!-- ─────────────────────────────  BANNER  ───────────────────────────── -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/profile-preview/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/profile-preview/light.svg">
-  <img alt="Reyas Khan M — infrastructure and delivery" src="https://raw.githubusercontent.com/rewyekha/rewyekha/profile-preview/dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/main/light.svg">
+  <img alt="Reyas Khan M — infrastructure and delivery" src="https://raw.githubusercontent.com/rewyekha/rewyekha/main/dark.svg" width="100%">
 </picture>
 
 <br/><br/>
@@ -56,9 +52,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/profile-preview/pipeline-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/profile-preview/pipeline-light.svg">
-  <img alt="commit to build to scan to artifact to UAT to production to observe" src="https://raw.githubusercontent.com/rewyekha/rewyekha/profile-preview/pipeline-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/main/pipeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/main/pipeline-light.svg">
+  <img alt="commit to build to scan to artifact to UAT to production to observe" src="https://raw.githubusercontent.com/rewyekha/rewyekha/main/pipeline-dark.svg" width="100%">
 </picture>
 
 </div>
@@ -162,9 +158,9 @@
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/profile-preview/stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/profile-preview/stats-light.svg">
-  <img alt="Contribution statistics" src="https://raw.githubusercontent.com/rewyekha/rewyekha/profile-preview/stats-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/main/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/main/stats-light.svg">
+  <img alt="Contribution statistics" src="https://raw.githubusercontent.com/rewyekha/rewyekha/main/stats-dark.svg" width="100%">
 </picture>
 
 </div>
@@ -183,9 +179,9 @@
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/profile-preview/deploy-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/profile-preview/deploy-light.svg">
-  <img alt="Contribution calendar rolled out as a Kubernetes deployment" src="https://raw.githubusercontent.com/rewyekha/rewyekha/profile-preview/deploy-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/main/deploy-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/main/deploy-light.svg">
+  <img alt="Contribution calendar rolled out as a Kubernetes deployment" src="https://raw.githubusercontent.com/rewyekha/rewyekha/main/deploy-dark.svg" width="100%">
 </picture>
 
 </div>
