@@ -1,0 +1,46 @@
+# Copy this to  .github/workflows/deploy-grid.yml  in the rewyekha/rewyekha repo.
+# Typing the path with slashes in the GitHub "Create new file" box creates the folders.
+#
+# BEFORE the first run:
+#   repo Settings -> Actions -> General -> Workflow permissions
+#   -> "Read and write permissions" -> Save
+#   That is github.com/rewyekha/rewyekha/settings/actions, the REPO's settings,
+#   not your account settings.
+#
+# No API token and no scopes are needed. The contribution calendar is read from
+# the public endpoint, so there is nothing to rotate and nothing to leak.
+
+name: Roll out contribution grid
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["deploy_grid.py", ".github/workflows/deploy-grid.yml"]
+
+jobs:
+  rollout:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate deploy-dark.svg and deploy-light.svg
+        run: python deploy_grid.py ${{ github.repository_owner }}
+
+      - name: Commit if the grid changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add deploy-dark.svg deploy-light.svg
+          git diff --staged --quiet && echo "no change" && exit 0
+          git commit -m "Roll out contribution grid [skip ci]"
+          git push
