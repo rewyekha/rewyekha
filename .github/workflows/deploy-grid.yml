@@ -10,7 +10,7 @@
 # No API token and no scopes are needed. The contribution calendar is read from
 # the public endpoint, so there is nothing to rotate and nothing to leak.
 
-name: Roll out contribution grid
+name: Roll out contribution grid and stats
 
 on:
   schedule:
@@ -18,7 +18,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["deploy_grid.py", ".github/workflows/deploy-grid.yml"]
+    paths: ["deploy_grid.py", "stats_card.py", ".github/workflows/deploy-grid.yml"]
 
 jobs:
   rollout:
@@ -33,14 +33,17 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Regenerate deploy-dark.svg and deploy-light.svg
+      - name: Regenerate the rollout grid
         run: python deploy_grid.py ${{ github.repository_owner }}
+
+      - name: Regenerate the stats card
+        run: python stats_card.py ${{ github.repository_owner }}
 
       - name: Commit if the grid changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add deploy-dark.svg deploy-light.svg
+          git add deploy-dark.svg deploy-light.svg stats-dark.svg stats-light.svg
           git diff --staged --quiet && echo "no change" && exit 0
           git commit -m "Roll out contribution grid [skip ci]"
           git push

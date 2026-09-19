@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3600&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&height=34&lines=kernel+-%3E+container+-%3E+cluster+-%3E+cloud+-%3E+production.;I+like+knowing+what+the+layer+below+is+doing.;Infrastructure+as+code%2C+and+pipelines+that+stay+boring.;Currently+breaking+things+with+Kafka+and+GitOps." alt="tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3600&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&height=34&lines=kernel+-%3E+container+-%3E+cluster+-%3E+cloud+-%3E+production.;I+like+knowing+what+the+layer+below+is+doing.;Infrastructure+as+code%2C+and+pipelines+that+stay+boring.;Debug+downward%2C+never+sideways." alt="tagline"/>
 
 <br/>
 
@@ -65,21 +65,6 @@
 
 ---
 
-## What I actually do
-
-I work on the path between a developer pressing push and that change reaching production, and I
-try to keep that path boring. CI/CD, infrastructure as code, and the plumbing underneath it —
-build agents, container images, clusters, and the monitoring that tells you when it went wrong.
-
-What I actually enjoy is the **layers**. Kernel, systemd and cgroups at the bottom. Containers and
-clusters in the middle. Cloud and enterprise production at the top. Most interesting failures
-happen because one layer is quietly lying to the layer above it, and you only find that by knowing
-how both of them work.
-
-I like legacy systems too. Greenfield is easy. Keeping an old system shipping on schedule is the
-more interesting problem, and it teaches you more.
-
----
 
 ## Stack
 
@@ -135,7 +120,6 @@ more interesting problem, and it teaches you more.
 
 <br/><br/>
 
-<sub><b>Currently learning</b> — Kafka &amp; event streaming · GitOps with Argo CD · Helm charts · self-hosting Gitea and Forgejo · Jenkins</sub>
 
 </div>
 
@@ -169,18 +153,21 @@ more interesting problem, and it teaches you more.
 
 <div align="center">
 
-<img width="46%" src="https://streak-stats.demolab.com/?user=rewyekha&hide_border=true&background=0A0F1C&stroke=1E2C47&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8&sideLabels=7C8FAB&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=4A5A75&titleColor=38BDF8" alt="streak"/>
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewyekha&layout=compact&langs_count=6&hide_border=true&title_color=38BDF8&text_color=7C8FAB&bg_color=0A0F1C" alt="top languages"/>
+<!--
+  Generated from the public contributions page by .github/workflows/deploy-grid.yml,
+  not by github-readme-stats or streak-stats. Those are shared public instances
+  that rate-limit constantly and were returning 503 and "Failed to retrieve
+  contributions". This one has no API token, no third-party host, and nothing
+  that can fail independently of GitHub itself.
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/profile-preview/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rewyekha/rewyekha/profile-preview/stats-light.svg">
+  <img alt="Contribution statistics" src="https://raw.githubusercontent.com/rewyekha/rewyekha/profile-preview/stats-dark.svg" width="100%">
+</picture>
 
 </div>
-
-<!--
-  Kept deliberately small. The full-width stats card was noisy and the shared
-  public github-readme-stats instance regularly returns 503 / "Failed to
-  retrieve contributions", which is a rate limit on their side, not a problem
-  with this profile. Self-host it (fork anuraghazra/github-readme-stats, deploy
-  on Vercel, set PAT_1) and swap the host in the top-langs URL above.
--->
 
 ---
 
@@ -215,7 +202,7 @@ more interesting problem, and it teaches you more.
 
 Azure DevOps Engineer · DevOps Engineer · Build &amp; Release Engineer · Cloud Infrastructure Engineer
 
-Chennai · open to Hyderabad
+Chennai, India
 
 <br/>
 
